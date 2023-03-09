@@ -1,0 +1,16 @@
+.container{
+
+}
+
+.movies{
+    height: 300px;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.imgContainer img{
+    height: 300px;
+    width: 100%;
+}
